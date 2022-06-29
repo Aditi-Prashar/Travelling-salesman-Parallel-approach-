@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1642225047 source:f:\project_pdc\travelling_salesman\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	"TSPSolver.h"
+
+1642054468 f:\project_pdc\travelling_salesman\tspsolver.h
+	<omp.h>
+	<fstream>
+	<string>
+	"Matrix.h"
+	"GenPermutation.h"
+	"Route.h"
+
+1642054704 f:\project_pdc\travelling_salesman\matrix.h
+	<stdexcept>
+	<iostream>
+
+1642055022 f:\project_pdc\travelling_salesman\genpermutation.h
+	<exception>
+	<algorithm>
+	<functional>
+
+1642055288 f:\project_pdc\travelling_salesman\route.h
+
+1642055382 source:f:\project_pdc\travelling_salesman\stdafx.cpp
+	"stdafx.h"
+
+1642055443 f:\project_pdc\travelling_salesman\stdafx.h
+	"targetver.h"
+	<stdio.h>
+	<tchar.h>
+
+1642055523 f:\project_pdc\travelling_salesman\targetver.h
+	<SDKDDKVer.h>
+
+1642149023 source:f:\project_pdc\travelling_salesman\genpermutation.cpp
+	"GenPermutation.h"
+
+1642223606 source:f:\project_pdc\travelling_salesman\matrix.cpp
+	"Matrix.h"
+
+1642223667 source:f:\project_pdc\travelling_salesman\tspsolver.cpp
+	"TSPSolver.h"
+
+1642224577 source:f:\project_pdc\travelling_salesman\tsp.rc
+	"resource.h"
+	"winres.h"
+
+1642055191 f:\project_pdc\travelling_salesman\resource.h
+
+1642059604 f:\project_pdc\travelling_salesman\winres.h
+	<winresrc.h>
+
